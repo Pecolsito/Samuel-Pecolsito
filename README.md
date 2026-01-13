@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rubén</h1>
+<h1 align="center">Hi, I'm Samuel</h1>
 
 <h4 align="center">
   I'm a second-year Software Development student interested in Full-Stack and native Android development.
