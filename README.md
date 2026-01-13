@@ -83,5 +83,5 @@
 #####
 
 <p align="center">
-  <img src="./assets/ProfileBackground.gif" alt="ProfileBackground" width="100%"/>
+  <img src="./assets/kanekieye.gif" alt="ProfileBackground" width="100%"/>
 </p>
